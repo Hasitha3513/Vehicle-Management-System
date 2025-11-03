@@ -1,4 +1,4 @@
 package GenxSolution.VMS.model.enums;
 
-public class EmploymentType {
+public enum EmploymentType {
 }

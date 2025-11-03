@@ -1,4 +1,4 @@
 package GenxSolution.VMS.model.enums;
 
-public class ProjectStatus {
+public enum ApprovalStatus {
 }
