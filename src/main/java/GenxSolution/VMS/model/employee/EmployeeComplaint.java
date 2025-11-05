@@ -1,4 +1,4 @@
 package GenxSolution.VMS.model.employee;
 
-public enum EmployeeSkillAssessment {
+public class EmployeeComplaint {
 }

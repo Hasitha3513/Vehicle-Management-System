@@ -1,4 +1,4 @@
 package GenxSolution.VMS.model.tyre;
 
-public enum TyreInspection {
+public class TyreRotation {
 }
